@@ -1,0 +1,12 @@
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/TodoApi
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/appsettings.json
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/TodoApi.dll
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/TodoApi.deps.json
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/TodoApi.runtimeconfig.json
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/TodoApi.pdb
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/myatsusuaung/Documents/Workspace/CSharp/TodoApi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
