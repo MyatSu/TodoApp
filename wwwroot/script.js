@@ -9,7 +9,7 @@ async function loadTodos() {
 
   todos.map((todo) => {
     const li = document.createElement("li");
-    li.textContent = `${todo.title} - ${todo.isComplete ? "Done" : "Pending"}`;
+    li.textContent = `${todo.title} - ${todo.isComplete ? "Completed" : "Pending"}`;
     list.appendChild(li);
   });
 }
